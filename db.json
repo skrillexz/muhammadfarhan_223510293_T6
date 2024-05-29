@@ -1,14 +1,9 @@
 {
   "articles": [
     {
-      "id": "e93c",
       "title": "makan",
-      "content": "nasi"
-    },
-    {
-      "id": "a171",
-      "title": "ayam",
-      "content": "ayaman"
+      "content": "ayam",
+      "id": "6220"
     }
   ]
 }
